@@ -1,0 +1,8 @@
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Library\bin\Debug\netstandard1.4\FizzBuzz.Library.deps.json
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Library\bin\Debug\netstandard1.4\FizzBuzz.Library.dll
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Library\bin\Debug\netstandard1.4\FizzBuzz.Library.pdb
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Library\obj\Debug\netstandard1.4\FizzBuzz.Library.csprojAssemblyReference.cache
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Library\obj\Debug\netstandard1.4\FizzBuzz.Library.AssemblyInfoInputs.cache
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Library\obj\Debug\netstandard1.4\FizzBuzz.Library.AssemblyInfo.cs
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Library\obj\Debug\netstandard1.4\FizzBuzz.Library.dll
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Library\obj\Debug\netstandard1.4\FizzBuzz.Library.pdb

@@ -1,0 +1,3 @@
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Tests\obj\Debug\netcoreapp1.1\FizzBuzz.Tests.csprojAssemblyReference.cache
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Tests\obj\Debug\netcoreapp1.1\FizzBuzz.Tests.AssemblyInfoInputs.cache
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Tests\obj\Debug\netcoreapp1.1\FizzBuzz.Tests.AssemblyInfo.cs

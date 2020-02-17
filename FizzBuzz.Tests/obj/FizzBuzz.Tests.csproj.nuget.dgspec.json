@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ancharbo\\Documents\\Loves\\fizzbuzz\\FizzBuzz.Tests\\FizzBuzz.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ancharbo\\Documents\\Loves\\fizzbuzz\\FizzBuzz.Library\\FizzBuzz.Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ancharbo\\Documents\\Loves\\fizzbuzz\\FizzBuzz.Library\\FizzBuzz.Library.csproj",
+        "projectName": "FizzBuzz.Library",
+        "projectPath": "C:\\Users\\ancharbo\\Documents\\Loves\\fizzbuzz\\FizzBuzz.Library\\FizzBuzz.Library.csproj",
+        "packagesPath": "C:\\Users\\ancharbo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ancharbo\\Documents\\Loves\\fizzbuzz\\FizzBuzz.Library\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ancharbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.4"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ancharbo/_packaging/PartsUnlimited/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.4": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.4": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ancharbo\\Documents\\Loves\\fizzbuzz\\FizzBuzz.Tests\\FizzBuzz.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ancharbo\\Documents\\Loves\\fizzbuzz\\FizzBuzz.Tests\\FizzBuzz.Tests.csproj",
+        "projectName": "FizzBuzz.Tests",
+        "projectPath": "C:\\Users\\ancharbo\\Documents\\Loves\\fizzbuzz\\FizzBuzz.Tests\\FizzBuzz.Tests.csproj",
+        "packagesPath": "C:\\Users\\ancharbo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ancharbo\\Documents\\Loves\\fizzbuzz\\FizzBuzz.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ancharbo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ancharbo/_packaging/PartsUnlimited/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "projectReferences": {
+              "C:\\Users\\ancharbo\\Documents\\Loves\\fizzbuzz\\FizzBuzz.Library\\FizzBuzz.Library.csproj": {
+                "projectPath": "C:\\Users\\ancharbo\\Documents\\Loves\\fizzbuzz\\FizzBuzz.Library\\FizzBuzz.Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.1.11, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.1.11, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
