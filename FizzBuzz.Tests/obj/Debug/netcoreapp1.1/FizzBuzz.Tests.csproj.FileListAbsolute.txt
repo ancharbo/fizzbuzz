@@ -1,3 +1,16 @@
 C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Tests\obj\Debug\netcoreapp1.1\FizzBuzz.Tests.csprojAssemblyReference.cache
 C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Tests\obj\Debug\netcoreapp1.1\FizzBuzz.Tests.AssemblyInfoInputs.cache
 C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Tests\obj\Debug\netcoreapp1.1\FizzBuzz.Tests.AssemblyInfo.cs
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Tests\bin\Debug\netcoreapp1.1\FizzBuzz.Tests.deps.json
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Tests\bin\Debug\netcoreapp1.1\FizzBuzz.Tests.runtimeconfig.json
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Tests\bin\Debug\netcoreapp1.1\FizzBuzz.Tests.runtimeconfig.dev.json
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Tests\bin\Debug\netcoreapp1.1\FizzBuzz.Tests.dll
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Tests\bin\Debug\netcoreapp1.1\FizzBuzz.Tests.pdb
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Tests\bin\Debug\netcoreapp1.1\FizzBuzz.Library.dll
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Tests\bin\Debug\netcoreapp1.1\FizzBuzz.Library.pdb
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Tests\obj\Debug\netcoreapp1.1\FizzBuzz.Tests.csproj.CopyComplete
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Tests\obj\Debug\netcoreapp1.1\FizzBuzz.Tests.dll
+C:\Users\ancharbo\Documents\Loves\fizzbuzz\FizzBuzz.Tests\obj\Debug\netcoreapp1.1\FizzBuzz.Tests.pdb
