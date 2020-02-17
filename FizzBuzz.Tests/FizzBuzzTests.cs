@@ -20,6 +20,7 @@ namespace FizzBuzz.Tests
         public void ShouldPrintNumber()
         {
             Assert.AreEqual("1",_fizzbuzz.Print(1));
+            Assert.AreEqual("2",_fizzbuzz.Print(2));
         }
     }
 }

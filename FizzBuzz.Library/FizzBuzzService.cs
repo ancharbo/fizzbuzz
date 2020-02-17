@@ -4,7 +4,7 @@ namespace FizzBuzz.Library
     {
         public string Print(int n)
         {
-            return "1";
+            return n.ToString();
         }
     }
 }
