@@ -22,5 +22,12 @@ namespace FizzBuzz.Tests
             Assert.AreEqual("1",_fizzbuzz.Print(1));
             Assert.AreEqual("2",_fizzbuzz.Print(2));
         }
+
+        [TestMethod]
+
+        public void ShouldPrintFizz()
+        {
+            Assert.AreEqual("Fizz", _fizzbuzz.Print(3));
+        }
     }
 }
